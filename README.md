@@ -1,4 +1,4 @@
-# Maricopa.Web.BlazorClient 
+# Web.BlazorClient 
 
 # Table of Contents
 [Initial Configuration](#initial-configuration)
